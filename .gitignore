@@ -9,3 +9,6 @@ yarn-error.log*
 pnpm-debug.log*
 .idea
 .vscode
+
+# 验证脚本临时产物
+scripts/records.cjs
